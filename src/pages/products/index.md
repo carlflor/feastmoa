@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Our Coffee
+title: Coffe by You
 image: /img/jumbotron.jpg
 heading: Our Story Carl
 description: >-
